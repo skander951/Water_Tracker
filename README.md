@@ -1,4 +1,4 @@
 # Water_Tracker
-![app1](img/Water tracker.png)
-![app2](img\Water tracker2.png)
+![app1](img/WaterTracker.png)
+![app2](img/WaterTracker2.png)
 
