@@ -24,7 +24,7 @@ else:
 
     #sidebar: Intake Input
     st.sidebar.header("Log Your Water Intake")
-    user_id = st.sidebar.text_input("User ID",value="user_123")
+    user_id = st.sidebar.text_input("User ID",value="skouza")
     intake_ml = st.sidebar.number_input("Water Intake (ml)",min_value=0,step=100)
 
     if st.sidebar.button("Submit"):
