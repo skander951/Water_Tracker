@@ -1,4 +1,4 @@
 # Water_Tracker
-![model_demo](imG/Water tracker.png)
-![model_demo](imG/Water tracker2.png)
+![app1](img/Water tracker.png)
+![app2](img/Water tracker2.png)
 
